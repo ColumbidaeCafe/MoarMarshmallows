@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json",
+  "enabled": true,
+  "settings": {
+    "marshmallowRoulette": {
+      "title": "Turn On Marshmallow Roulette",
+      "type": "toggle",
+      "value": false,
+      "tooltip": "Enables nut allergy, and puts a chance of nuts in your marshmallows."
+    },
+    "rouletteChance": {
+      "title": "Marshmallow Roulette Riskiness",
+      "type": "number",
+      "value": 6,
+      "tooltip": "This is the chance of suffocating after eating a roulette marshmallow, calculated by 1/<value>. Default is 6."
+    },
+    "alwaysPunish": {
+      "title": "Consuming Burnt Death",
+      "type": "toggle",
+      "value": false,
+      "tooltip": "Make it so that if you eat a burnt marshmallow you die."
+    },
+    "instantPunish": {
+      "title": "Instant Death Upon Burning",
+      "type": "toggle",
+      "value": false,
+      "tooltip": "If you burn or overcook a marshmallow, you die instantly."
+    },
+    "marshmallowLimitEnable": {
+      "title": "Marshmallow Limit Toggle",
+      "type": "toggle",
+      "value": false,
+      "tooltip": "Limit the number of marshmallows that you can use per loop. Unconsumed but cooked marshmallows will return to their original state."
+    },
+    "marshmallowCount": {
+      "title": "Marshmallow Limit Count",
+      "type": "number",
+      "value": 10,
+      "tooltip": "The number of marshmallows you have if you turn on the marshmallow limit. Will load changes after each loop."
+    }
+  }
+}
