@@ -4,5 +4,5 @@
  Customise your marshmallow "cooking" experience a smidge more.
 
 
-<small>"Fix the README dammit" - Etherpod</small>
+<small>Special thanks to "Fix the README dammit" Etherpod</small>
 
