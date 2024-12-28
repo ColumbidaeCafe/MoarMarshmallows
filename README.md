@@ -1,4 +1,8 @@
 ![MoarMarshmallows](banner.jpg)
 
-# MoarMarshmallows
+# Moar Marshmallows
  Customise your marshmallow "cooking" experience a smidge more.
+
+
+<small>"Fix the README dammit" - Etherpod</small>
+
